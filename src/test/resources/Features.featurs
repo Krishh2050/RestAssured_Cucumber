@@ -1,0 +1,8 @@
+Feature: Let's Test
+
+  Scenario: Let's get started
+
+    Given given the URL
+    When GET request
+    Then it should be successful
+
